@@ -1,0 +1,7 @@
+[submodule "pay/themes/indigo"]
+	path = pay/themes/indigo
+	url = https://github.com/AngeloStavrow/indigo.git
+[submodule "pay/public"]
+	path = pay/public
+	url = https://github.com/romijung/romijung.github.io.git
+	branch = master

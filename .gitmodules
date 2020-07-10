@@ -5,3 +5,7 @@
 	path = pay/public
 	url = https://github.com/romijung/romijung.github.io.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/romijung/romijung.github.io.git
+	branch = master
